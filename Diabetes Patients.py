@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 import numpy as np # for linear algebra
 import pandas as pd # data processing, CSV file I/O, etc
 import seaborn as sns # for plots
